@@ -1,0 +1,41 @@
+[
+  {
+    "id": 0,
+    "title": "Awesome event",
+    "type": "Showcase",
+    "fromDate": "2016/04/20",
+    "toDate": "2016/04/22",
+    "location": {
+      "area": "Hall C",
+      "stand": "001"
+    },
+    "imageId": "0",
+    "description": "Awesome event description"
+  },
+  {
+    "id": 1,
+    "title": "Another event",
+    "type": "Presentation",
+    "fromDate": "2016/04/14",
+    "toDate": "2016/04/17",
+    "location": {
+      "area": "Hall B",
+      "stand": "004"
+    },
+    "imageId": "3",
+    "description": "Another event description"
+  },
+  {
+    "id": 2,
+    "title": "Third event",
+    "type": "Sale",
+    "fromDate": "2016/04/16",
+    "toDate": "2016/04/18",
+    "location": {
+      "area": "Hall D",
+      "stand": "002"
+    },
+    "imageId": "5",
+    "description": "Third event description"
+  }
+]

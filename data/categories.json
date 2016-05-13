@@ -1,0 +1,111 @@
+[
+  {
+    "id": 0,
+    "name": "Category 0"
+  },
+  {
+    "id": 1,
+    "name": "Category 1",
+    "categoryItems": [
+      {
+        "id": 0,
+        "name": "Bags",
+        "imageId": "0",
+        "location": {
+          "area": "Hall C",
+          "stand": "001"
+        },
+        "exhibitorName": "LV",
+        "description": "Sample description",
+        "info": [
+          {
+            "key": "Some info",
+            "value": "Awesome info message"
+          }
+        ],
+        "sharingInfo": {
+          "text": "Awesome bags",
+          "url": "http://127.0.0.1/categoryItems/0",
+          "imageUrl": "http://127.0.0.1/media/1.png"
+        }
+      },
+      {
+        "id": 1,
+        "name": "Shoes",
+        "imageId": "1",
+        "location": {
+          "area": "Hall B",
+          "stand": "002"
+        }
+        ,
+        "exhibitorName": "Nike",
+        "description": "Sample description",
+        "info": [
+          {
+            "key": "Some info",
+            "value": "Awesome info message"
+          }
+        ],
+        "sharingInfo": {
+          "text": "Awesome shoes",
+          "url": "http://127.0.0.1/categoryItems/0",
+          "imageUrl": "http://127.0.0.1/media/1.png"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Category 2"
+  },
+  {
+    "id": 3,
+    "name": "Category 3",
+    "categoryItems": [
+      {
+        "id": 2,
+        "name": "Glasses",
+        "imageId": "45",
+        "location": {
+          "area": "Hall D",
+          "stand": "012"
+        },
+        "exhibitorName": "RayBan",
+        "description": "Sample description",
+        "info": [
+          {
+            "key": "Some info",
+            "value": "Awesome info message"
+          }
+        ],
+        "sharingInfo": {
+          "text": "Awesome glasses",
+          "url": "http://127.0.0.1/categoryItems/0",
+          "imageUrl": "http://127.0.0.1/media/1.png"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Pants",
+        "imageId": "12",
+        "location": {
+          "area": "Hall C",
+          "stand": "004"
+        },
+        "exhibitorName": "CK",
+        "description": "Sample description",
+        "info": [
+          {
+            "key": "Some info",
+            "value": "Awesome info message"
+          }
+        ],
+        "sharingInfo": {
+          "text": "Awesome pants",
+          "url": "http://127.0.0.1/categoryItems/0",
+          "imageUrl": "http://127.0.0.1/media/1.png"
+        }
+      }
+    ]
+  }
+]

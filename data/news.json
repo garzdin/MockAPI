@@ -1,0 +1,30 @@
+[
+  {
+    "url": "http://127.0.0.1:5000/news/1",
+    "title": "Awesome news",
+    "subtitle": "First news article",
+    "imageId": "1",
+    "featured": false
+  },
+  {
+    "url": "http://127.0.0.1:5000/news/2",
+    "title": "Troubling news",
+    "subtitle": "Second news article",
+    "imageId": "2",
+    "featured": true
+  },
+  {
+    "url": "http://127.0.0.1:5000/news/3",
+    "title": "Some other news",
+    "subtitle": "Another news article",
+    "imageId": "3",
+    "featured": false
+  },
+  {
+    "url": "http://127.0.0.1:5000/news/4",
+    "title": "Last news",
+    "subtitle": "Last news article",
+    "imageId": "4",
+    "featured": true
+  }
+]

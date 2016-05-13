@@ -1,0 +1,12 @@
+[
+  {
+    "name": "admin",
+    "email": "admin@admin.com",
+    "password": "admin",
+    "createdDate": "2016/04/12:T13:30:12",
+    "location": {
+      "area": "Hall C",
+      "stand": "001"
+    }
+  }
+]
