@@ -1,4 +1,4 @@
-# CiffAPI
+# MockAPI
 A mock back-end written in Node.JS
 
 Setup instructions:
